@@ -12,5 +12,7 @@ $ python main.py
 
 [1] [A Nice Tutorial](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
 
-[1] [Thomas N. Kipf, Max Welling Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+[2] [GNNs for NLP](https://github.com/svjan5/GNNs-for-NLP)
+
+[3] [Thomas N. Kipf, Max Welling Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 
